@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a to do list project
-- 🌱 I’m currently learning Javascript and jQuery
+- 🌱 I’m currently learning Javascript, jQuery and Ajax 🌐
 - 👯 I’m looking to collaborate on CSS frameworks
 <!--
 - 🤔 I’m looking for help with ...
