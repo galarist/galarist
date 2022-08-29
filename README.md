@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a group project: https://github.com/DevPreps
+- 🔭 I’m currently working on [DevPreps](https://github.com/DevPreps)
 - 🌱 I’m currently learning ReactJS, TDD
 - 👯 I’m looking to collaborate on ReactJS projects
-- 👨‍💻 My portfolio is available at https://galarist.com
+- 👨‍💻 My [portfolio](https://www.galarist.com)
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
